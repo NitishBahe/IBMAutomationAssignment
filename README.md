@@ -79,7 +79,7 @@ IBMAutomationAssignment/
 ## ▶ How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/NitishBahe/IBMAutomationAssignment.git
 2. Open the project in your IDE (IntelliJ/Eclipse).
 3. Install dependencies via Maven:
    ```bash
